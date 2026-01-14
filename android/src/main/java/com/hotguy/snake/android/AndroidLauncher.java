@@ -1,11 +1,11 @@
-package main.java.com.hotguy.snake.android;
+package com.hotguy.snake.android;
 
 import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
 
-import main.java.com.hotguy.snake.GdxSnake;
+import com.hotguy.snake.GdxSnake;
 
 public class AndroidLauncher extends AndroidApplication {
 	@Override
